@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A compleat and true narrative of the manner of the discovery of the Popish Plot to His Majesty, by Mr. Christopher Kirkby with a full answer to a late pamphlet entituled (Reflections upon the Earl of Danby) relating to the murther of Sir Edmundbury Godfrey, in a letter to a friend.</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31103</idno>
+            <idno type="STC">Wing B98</idno>
+            <idno type="STC">ESTC R18232</idno>
+            <idno type="EEBO-CITATION">12868910</idno>
+            <idno type="OCLC">ocm 12868910</idno>
+            <idno type="VID">94779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 731:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A compleat and true narrative of the manner of the discovery of the Popish Plot to His Majesty, by Mr. Christopher Kirkby with a full answer to a late pamphlet entituled (Reflections upon the Earl of Danby) relating to the murther of Sir Edmundbury Godfrey, in a letter to a friend.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>[4], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Henry Million ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J.B.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>J. B. --  Some reflections upon the Earl of Danby, relating to the murther of Sir Edmundbury Godfrey.</term>
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678.</term>
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712.</term>
+               <term>Kirkby, Christopher.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94779:1"/>
+            <pb facs="tcp:94779:1" rendition="simple:additions"/>
+            <p>A Compleat and True NARRATIVE OF THE <hi>Manner of the Diſcovery</hi> OF THE POPISH PLOT TO HIS MAJESTY, By Mr. Chriſtopher Kirkby.</p>
+            <p>WITH A Full Anſwer to a Late Pamphlet Entituled [Reflections upon the Earl of Danby.] Relating to the MURTHER OF <hi>Sir Edmundbury Godfrey,</hi> In a Letter to a Friend.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and are to be ſold by <hi>Henry Million</hi> at the <hi>Bible</hi> in the <hi>Old-Bayley.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:94779:2"/>
+            <pb facs="tcp:94779:2"/>
+            <head>
+               <hi>July</hi> the 12th. 1679.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BY Yours of the fourth Inſtant (which came not to my hands till yesterday, though it did to my houſe three daies before, I being then out of Town) I find that you are much ſtagger'd in your belief touching the Authors of your late friend Sir <hi>Ed<g ref="char:EOLhyphen"/>mundbury Godfrey</hi>'s Murther, and that after the Tryal, Condemnation and Exe<g ref="char:EOLhyphen"/>cution of three of the Principal Actors therein, and the Confeſſion of a fourth in his Printed Narrative; together with ſo many Concurring Circumſtances as make good the Truth of the Evidence given againſt them at their Tryal; you begin to be perſwaded (as you ſay many other Gentlemen of Quality, and good Judgment are) either that the Perſons who ſuffered for that Execrable Deed, Died Innocent, or (at leaſt) that their Inſtigation proceeded not from any of the Popiſh Plotters, but from a Perſon whoſe In<g ref="char:EOLhyphen"/>tereſt it was (as you are made to believe) to have Sir <hi>Edmundbury Godfrey</hi> removed out of the way, as the only Witneſs capable to prove Miſpriſion of Treaſon againſt him<g ref="char:punc">▪</g> And this Alteration of your perſwaſion proceeds (as you your ſelf intimate) from a Printed Paper ſcattered abroad under the Title of [<hi>Some Roflections upon the Earl of</hi> Danby <hi>in Relation to the Murther, of Sir</hi> Edmundbury Godfrey,]</p>
+            <p>I ſhall not trouble you with the Scribler of that Paper; the thing it ſelf does ſuffi<g ref="char:EOLhyphen"/>ciently demonſtrate what his Principles are; only this, that I am confidently aſſured (of what I did before but gueſs) that he is of the Popiſh Party, and then endeavour to ſet you right again touching this matter (and with you thoſe other Gentlemen of Qua<g ref="char:EOLhyphen"/>lity and Judgment which you ſpeak of) though I take not upon me the Defence of the ſaid Earl, as to any thing he ſtands Charged with in Parliament; yet to lay the Saddle upon the right Horſe as to this particular, (which is no part of his Charge) I have ta<g ref="char:EOLhyphen"/>ken the pains to reperuſe the ſaid Printed Paper, and to Examine the Truth of that particular Matter of Fact, upon which principally the Scribler thereof (for he deſerves not the name of an Author) hath built all his weak and fooliſh Arguments to in<g ref="char:EOLhyphen"/>duce you and others to this misbelief; and I find the whole drift and deſign thereof to be nothing elſe but a cunning and knaviſh device, whereby, if it were poſſible to tranſlate the Guilt of that Horrid Murther from the Popiſh Party, and to lay the ill-favoured Baſtard at the Doors of the Earl of <hi>Danby,</hi> and his Inſtruments, for the ſaving of the Credit of the Popiſh Politicks (more dear to them than that of their Honesty or Allegiance.) This Act being (as he himſelf acknowledgeth in his ſaid Printed Paper) the worſt miſchief to their Cauſe that they could have thought of in the world.</p>
+            <p>In the firſt place, therefore you may pleaſe to take notice that he lays the founda<g ref="char:EOLhyphen"/>tion of all his ſaid Arguments upon this notorious Lye of his own Invention <hi>(viz.)</hi> That the Earl of <hi>Danby</hi> knew of the Popiſh Plot; a long time before His Majesty had heard any thing of it; and that he had Correſpondence with Dr. <hi>Oats,</hi> and Dr <hi>Tonge,</hi> by the means of Mr. <hi>Kirkby,</hi> a Merchant (Brother to Collonel <hi>Kirkby</hi>) long before the time he pretended to have heard of it from the King; thereby inſinu<g ref="char:EOLhyphen"/>ating (though not in direct Terms) that the Earl must needs be guilty, at least of Miſ<g ref="char:EOLhyphen"/>priſion of Treaſon in the Concealment, if not of the Original Treaſon in the Complotment; and this he backs with ſeveral other Lyes of the ſame ſtamp, impudently telling you (contrary to all Truth) that this long fore-knowledge of the Earls was confeſſed by both the Doctors to Sir <hi>Edmundbury Godfrey,</hi> at the time of their Examinations by him taken upon their Oaths. And that Sir <hi>Edmundbury Godfrey</hi> was the perſon who ſent his Royal Highneſs the firſt Account of the Plot by Mr. <hi>Coleman</hi> to <hi>Windſor,</hi> and adds ſeveral other things of like Invention, from all which he would have you con<g ref="char:EOLhyphen"/>clude,
+<pb facs="tcp:94779:3"/>
+That Sr. <hi>Edmundbury Godfrey</hi> being the only perſon who could poſſibly detect this Miſpriſion of Treaſon in the Earl, it was conſequently the Earls intereſt above all others to have him taken away And becauſe he had power, and probably had will to accompliſh it, and wanted not Inſtruments to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it in execution, therefore he muſt needs be the perſon by whoſe means or command the ſaid murther was committed. And this in <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>h is the ſamm and ſubſtance of that fooliſh paper wherein he (cunningly to his own apprehenſion) forgets in the mean time that it was much more in the power of Dr. <hi>Oates</hi> and Dr. <hi>Tonge</hi> (if what he aſſerts were true) to detect the ſaid Earl of this pretended Miſpriſion of Treaſon then it was in Sr. <hi>Edmundbury Godfreys.</hi> And therefore that this ſingle Murther could not ſufficiently ſecure him from the Diſcovery.</p>
+            <p>To let paſs therefore the <hi>non Sequitur's</hi> of all theſe his arguments, though both his Major and his Minor in each of them were admitted to be true (which will be too long to trouble you with in a Letter,) we ſhall ſufficiently cauſe this Scriblers whole ſuper<g ref="char:EOLhyphen"/>ſtructure to fall to the ground, by demonſtrating the utter untruth and falſeneſs of his Foundation, <hi>viz</hi> That the Earl of <hi>Danby</hi> knew of the Popiſh Plot a long time before it was made known to His Majeſty; wherein to convince you that it was a meer inven<g ref="char:EOLhyphen"/>tion of one of the Eldest Sons of the Father of <hi>Lyes,</hi> to impoſe upon the belief of the Credulous, and thereby to acquit the helliſh contrivers of the Popiſh Plot of the guilt of that execrable Murther I muſt pray you to take notice of the enſuing Narrative, the particu<g ref="char:EOLhyphen"/>lars whereof (I aſſure you) I long ſince received from Mr. <hi>Kirkbys</hi> own Mouth, a per<g ref="char:EOLhyphen"/>ſon of unqueſtionable Loyalty to the King, and of known Integrity in all his Words and Actions, and who will be alwaies ready (as I preſume) to atteſt the truth thereof, (if occaſion ſhall require) upon his Corporal Oath which particulars are as followeth, <hi>viz.</hi>
+            </p>
+            <div type="narrative">
+               <pb n="1" facs="tcp:94779:3"/>
+               <head>A Compleat and True Narrative of the Manner of the Diſcovery of the <hi>Popiſh Plot</hi> to His Majeſty, by Mr. <hi>Chriſtopher Kirkby.</hi>
+               </head>
+               <p>
+                  <hi>MOnday</hi> the 12th. of <hi>Auguſt,</hi> 1678. about twelve of the Clock Dr. <hi>Tonge</hi> acquaint<g ref="char:EOLhyphen"/>ed Mr. <hi>Christopher Kirkby</hi> with the Conſpiracy of the Papiſts againſt the King's Sacred Perſon, and the Proteſtant Religion, ſhewing him 43 Articles in writing, upon which Mr. <hi>Kirkby</hi> declared, that Matters of that concern ought not to be Concealed by him, but that he would acquaint His Majeſty therewith, though he foreſaw many dangers and difficulties he ſhould meet with in the Diſcovery; whereupon the Dr. de<g ref="char:EOLhyphen"/>clared his great ſatisfaction that Mr. <hi>Kirkby</hi> would make this buſineſs known to the King, earneſtly requeſting him not to acquaint any other perſon with it, which Mr. <hi>Kirkby</hi> promi<g ref="char:EOLhyphen"/>ſed: And about two of the Clock in the Afternoon went to <hi>Whitehall,</hi> but could not all that Afternoon meet with an opportunity of ſeeing the King, except in Company of His Royal Highneſs; ſo he returned to the Dr. and adviſing what to do, and how to proceed, Mr. <hi>Kirk<g ref="char:EOLhyphen"/>by</hi> writ a few lines to preſent to His Majeſty the next morning as He ſhould walk in the <hi>Park,</hi> ſignifying that if His Majeſty would be pleaſed to give him a quarter of an hours Au<g ref="char:EOLhyphen"/>dience, he ſhould make known ſomething, that as it was of the greateſt Importance, ſo it was only proper for His Royal Ear, and not to be delayed without eminent danger.</p>
+               <p>And accordingly upon the 13th. of <hi>Auguſt</hi> he waited His Majeſties coming into the <hi>Park,</hi> and in the outer-Gallery preſented it to His Majeſty, which he read as he went down the Stairs, and afterward called Mr. <hi>Kirkby</hi> to Him, and asked him what he had to ſay, who anſwered, that His Majeſties Enemies had a deſign againſt His Life: And therefore humbly pray'd His Majeſty to keep himſelf within His Company, for he did not know but that He might be in danger in that very Walk: And His Majeſty asking how that could be, was an<g ref="char:EOLhyphen"/>ſwered, that it might be by being ſhot at, but that a privater place was neceſſary for a more particular Accompt. Thereupon His Majeſty commanded him to wait His return out of the <hi>Park;</hi> and in the mean time to go to Mr. <hi>Chiffins,</hi> who would conduct him into His Clo<g ref="char:EOLhyphen"/>ſet; but Mr. <hi>Chiffins</hi> not knowing his buſineſs, refuſed to conduct him thither; and there<g ref="char:EOLhyphen"/>fore he was neceſſitated to wait His Majeſties Return in the Gallery; and His Majeſty re<g ref="char:EOLhyphen"/>turning into His Bed-Chamber, and not finding Mr. <hi>Kirkby</hi> there, was coming out; when he eſpied Mr. <hi>Kirkby,</hi> he called him in, commanding him to tell Him what he knew; whereupon Mr. <hi>Kirkby</hi> told His Majeſty that there were two men, by name <hi>Pickering</hi> and <hi>Grove,</hi> that were ſet to watch an Opportunity to ſhoot His Majeſty, and that Sir <hi>George Wakeman,</hi> was imployed to poiſon Him; and being asked how he knew this, he replyed, he had ſeen it in writing in the hands of his Friends, who the day before had acquainted him therewith: And that he had then waited an Opportunity to declare it to His Ma<g ref="char:EOLhyphen"/>jeſty, that his friend was neer at hand, and ready with the Papers to be brought before Him, when His Majeſty ſhould command, which he was pleaſed ſhould be between eight and nine of the Clock in the Evening; at which time Mr. <hi>Kirkby,</hi> and Dr. <hi>Tonge</hi> attended on His Majeſty, and were commanded into the Red Room, where the 43 Articles copied out by the Dr. (who kept the Original for his own Security) were delivered to His Majeſty, both of them humbly requeſting that thoſe Papers might be kept ſecret and ſafe; other<g ref="char:EOLhyphen"/>wiſe the full Diſcovery would be prevented, and their lives in hazard; further propoſing, that under the notion of Chymiſts, they might have Acceſs to His Perſon to prevent all ſuſpition: To which His Majeſty was pleaſed to anſwer, that He was going the next morning to <hi>Windſor,</hi> but that He would ſafely tranſmit the Papers into the hands of one with whom he would entruſt both his Life and Crown, and with whom he would anſwer for their lives; ordering them to wait upon the Earl of <hi>Danby,</hi> then Lord Treaſurer, the next
+<pb n="2" facs="tcp:94779:4"/>
+morning, which accordingly they did: But the Lord <hi>Dumblaine</hi> having been very ill that night; and the Lord Treaſurer, having ſate up late with him, it was about four of the Clock in the Afternoon before they could be Admitted; when being entred his Cloſet, they found him with the Papers in his hand, which he ſaid he had received from His Hajeſty, ſealed up, and found them to be of the greateſt Concern imaginable; and then asking the Dr. about them, deſired Mr. <hi>Kirkby</hi> to withdraw, which he accordingly did.</p>
+               <p>Two or three daies after the Dr. received more Informations, which Mr. <hi>Kirkby</hi> copied out; and the Dr. carried them to the Treaſurer, with whom he ſaid he could hardly come to ſpeak, but that my Lord had appointed one of his Gentlemen to receive the ſealed Papers from him.</p>
+               <p>About the 20th. of <hi>August</hi> the Dr. told Mr. <hi>Kirkby</hi> he had offer'd to bring <hi>Pickering</hi> and <hi>Grove</hi> into St. <hi>James</hi>'s <hi>Park,</hi> to be taken there with their Guns about them, if it were thought convenient, his Informant having aſſured him he could do it if the King were walking there.</p>
+               <p>The 23th. of <hi>Auguſt</hi> Mr. <hi>Kirkby</hi> went to <hi>Sommerſet-Houſe,</hi> to ſee <hi>Pickering,</hi> as he at<g ref="char:EOLhyphen"/>tended the Prieſts at Maſs, but could not that day ſee him; but the <hi>Sunday</hi> following he did; and the <hi>Sunday</hi> ſeven night after ſhewed him to Mr. <hi>Lloyd,</hi> one of the Lord Treaſu<g ref="char:EOLhyphen"/>rers Gentlemen: And that week he had been alone to eſpy out <hi>Keins,</hi> and learn to know him; and in Company of the Dr. to enquire after <hi>Grove,</hi> who was to have gone to <hi>Windſor</hi> if he had not been ſick.</p>
+               <p>The 26th. of <hi>Auguſt</hi> the Dr. told Mr. <hi>Kirkby,</hi> that he had informed the Treaſurer how to intercept Letters that came to <hi>Grove;</hi> and the Treaſurer being ſome daies after gone out of Town, he was reſolv'd to know if any were intercepted: And on <hi>Saturday</hi> the 31th. he went to a friend of his Mr. <hi>Henry Kirkby</hi> by name, a Letter-Carrier in the Poſt-Office, and deſired to know if any Letters came to one <hi>Grove,</hi> living in <hi>York-ſtreet,</hi> in <hi>Covent-Garden,</hi> who promiſed to enquire of the Letter Carriers for that part of the Town, whom he ſhould meet on <hi>Monday</hi> at the Office, and on <hi>Tueſday</hi> would give him an Account.</p>
+               <p>
+                  <hi>Monday</hi> the ſecond of <hi>September,</hi> Dr. <hi>Oats</hi> came to Mr. <hi>Kerby</hi>'s Lodgings at <hi>Fox-Hall,</hi> where he firſt ſaw him, or heard him named, and there he furniſhed him with money for his neceſſary Expences, appointing to meet him the day following at the <hi>Pheaſant</hi> in <hi>Fullers-Rents,</hi> to receive farther Informations, and to give leſs ſuſpition by his being often ſeen in Company of Dr. <hi>Tonge,</hi> and ſo be all diſcovered.</p>
+               <p>The third of <hi>September</hi> he met Mr. <hi>Henry Kirkby,</hi> who told him that he had ſpoken to the Inland and Forein Letter-Carriers, who told him that <hi>Grove</hi> had uſually Letters eve<g ref="char:EOLhyphen"/>ry week, amounting to three or four pound; and it being inſiſted on, what he had received the day before, he promiſed an Account the day following, which accordingly he did, by a note that the Foreign Letter-Carrier had delivered to <hi>Grove</hi> the ſecond then inſtant four ſhillings in Letters, and that the Inland Letter-Carrier had delivered ſeveral Letters, but the value he could not tell. Mr. <hi>Oats</hi> having given an Accompt in his Depoſitions of the Con<g ref="char:EOLhyphen"/>tents of the Letters from <hi>Scotland,</hi> and of the death of Mr, <hi>Weſtby</hi> (being killed there for endeavouring to diſcover the Plot) from thence Mr. <hi>Kirkby</hi> went to Dr. <hi>Oats;</hi> and having received from him what he had to communicate, appointed to meet the next morning at <hi>Heaven</hi> in the Old <hi>Pallace-Yard, Weſtminſter.</hi>
+               </p>
+               <p>The fourth, Mr. <hi>Kirkby</hi> met Dr. <hi>Oats</hi> accordingly, who told him that <hi>Whitebread,</hi> the <hi>Jeſuits</hi> Provincial, was come to Town, and had beaten him, and charged him with having been with the King, and diſcovering their Plot, which he denied, as not having been with the King; whereupon Mr. <hi>Kirkby</hi> reſolved to go the next day to <hi>Windſor,</hi> and in the evening propoſed to Dr. <hi>Tonge,</hi> that ſeeing Mr. <hi>Oats</hi> was diſcovered, and in danger, it was needful for him ſo to do, and deſired Dr. <hi>Tonge</hi> would be pleaſed to get Dr. <hi>Oats</hi> his Information ſworn before ſome Juſtice of the Peace; and the ſooner it was done, the better; and ac<g ref="char:EOLhyphen"/>cordingly the Dr. got it effected the ſixth of <hi>September,</hi> before Sir <hi>Edmundbury Godfrey;</hi> whom nothwithſtanding they would not permit to read the particulars of the Information, telling him that His Majeſty had already had a true Copy thereof; and that it was not convenient that it ſhould be yet communicated to any body elſe, only acquainting him in general, that it contained Matter of Treaſon and Felony, and other high Crimes, de<g ref="char:EOLhyphen"/>ſiring him to atteſt Dr. <hi>Oats Affidavit</hi> of the Truth of the Contents thereof; whereupon
+<pb n="3" facs="tcp:94779:4"/>
+Sir <hi>Ed. B. Godfrey</hi> reſted ſatisfied without reading them, and under writ Dr. <hi>Oats</hi> his <hi>Affidavit,</hi> that the Matter therein contained was True; and at the ſame time Dr. <hi>Tonge</hi> made Oath that it had been made known to the King.</p>
+               <p>The fifth, Mr. <hi>Kirkby</hi> went to <hi>Windſor,</hi> and preſented himſelf before His Majeſty, who was pleaſed not to ſpeak to him that day, not the next; Mr. <hi>Bedingfield</hi> having delivered certain Letters (mentioned in Dr. <hi>Oats</hi> his Depoſitions) to the Duke, and thereby indea<g ref="char:EOLhyphen"/>voured to take away the belief of a Plot.</p>
+               <p>The ſeventh, he went to the Treaſurers Lodgings, and meeting with Mr. <hi>Lloyd,</hi> he told him, that the Informant was diſcovered and beaten, and therefore deſired to ſpeak with my Lord Treaſurer, to take his further directions in that Affair: Mr: <hi>Lloyd</hi> went to ſpeak with him, and brought Anſwer, that my Lord would hear him; but although Mr. <hi>Kirkby</hi> waited all that day, preſenting himſelf before him, and offering to ſpeak, yet could he not be heard that day, nor the next, notwithſtanding all his ſolicitations for it, and my Lords promiſe that it ſhould be.</p>
+               <p>
+                  <hi>Monday</hi> the ninth of <hi>September,</hi> the Lord Treaſurer went to <hi>Wimbleton,</hi> and the King not enquiring of Mr. <hi>Kirkby</hi> any thing concerning the Plot, although he had an opportu<g ref="char:EOLhyphen"/>nity to ſpeak to His Majeſty about other buſineſs, he thought it not neceſſary to ſtay lon<g ref="char:EOLhyphen"/>ger there, but returned home, and that Evening met Dr. <hi>Tonge,</hi> and Dr. <hi>Oats</hi> at the <hi>Flying-Horſe</hi> in <hi>Kings-ſtreet, Westminster,</hi> whither he had retired after his narrow Eſcape out of the <hi>Jeſuits</hi> hands: Mr. <hi>Kirkby</hi> adviſed him to go with him to his Lodgingss at <hi>Fox-Hall,</hi> as well for his ſecurity, as that he might have Company to chear him in his then ſad Condition, to which he agreed; and ſo both he and the Dr. remained there with Mr. <hi>Kirkby,</hi> till they were provided for at <hi>Whitehall.</hi>
+               </p>
+               <p>Dr. <hi>Oats</hi> imploy'd himſelf to write out Copies of his Information; and Dr. <hi>Tonge</hi> to en<g ref="char:EOLhyphen"/>quire after the Lord Treaſurer, whom he ſought for at <hi>Wimbleton</hi> ſeveral times, to give in the needful and occurring Informations, which are now under his hands, before the private Committee, being all three much perplexed both in regard of the danger they were in, and the ſeeming neglect of the Diſcovery they had made.</p>
+               <p>The 27th. at night Mr. <hi>Lloyd</hi> met Mr. <hi>Kirkby</hi> at <hi>Fox-Hall,</hi> and told him he was come for Dr. <hi>Tonge</hi> to go to the Council; upon which Mr. <hi>Kirkby,</hi> and the Dr. went along with him; but before they got thither, the Council was up, and they ordered to attend the next morning at ten of the Clock.</p>
+               <p>This Evening they Reſolved to get the Copies of Dr. <hi>Oats</hi> his Information ſworn the next Morning.</p>
+               <p>The 28th. they all three went to Sir <hi>Edmundbury Godfrey,</hi> carrying the firſt Depoſi<g ref="char:EOLhyphen"/>tions, ſworn the ſixth of <hi>September,</hi> and two Copies written by Mr. <hi>Oats</hi> to have them al<g ref="char:EOLhyphen"/>ſo ſworn, That each might have an Authentick Copy; and having the two Copies ſworn<g ref="char:punc">▪</g> Sir <hi>Edmundbury Godfrey</hi> would needs keep one, which was left in his hands: before which time he had never puruſed the particulars of the Information, and then Dr. <hi>Tonge</hi> and Mr. <hi>Kirkby</hi> went to <hi>Whitehall,</hi> to attend the Council, and deſired Dr. <hi>Oats</hi> to go to <hi>Fox-Hall,</hi> and ſtay there till he heard from them; Dr. <hi>Tonge</hi> being called before the Council, was Ordered to bring Dr. <hi>Oats</hi> thither; whereupon Mr. <hi>Kirkby</hi> and he went to <hi>Fox-Hall,</hi> and brought him immediately before the Council, who then took care of the buſineſs, and ordered both Dr. <hi>Tonge,</hi> and Dr. <hi>Oats</hi> Lodgings in <hi>Whitehall.</hi>
+               </p>
+            </div>
+            <div type="conclusion">
+               <p>
+                  <pb n="4" facs="tcp:94779:5"/>
+                  <hi>THIS Narrative (as it is the truth) being duly conſidered and on the other ſide the Reflections upon the Earl of</hi> Danby, <hi>in Relation to Sr.</hi> Edmundbury Godfreys <hi>murther, thereby examined, it will appear to any judicious Reader, that the Scribler of that paper which hath ſhaken your belief, doth not ſo much endea<g ref="char:EOLhyphen"/>vour to diſcover the murtherers, as to hide the Plot and Plotters; if it were poſſible, he would willingly perſwade the world that that Monster had its birth from thoſe that diſ<g ref="char:EOLhyphen"/>covered it, and to whom it was firſt made known: Whereas Dr.</hi> Oates <hi>never ſpoke to the Earl of</hi> Danby <hi>before the</hi> 28th. <hi>of</hi> September 1678. <hi>That he was examined before the Councel and Dr.</hi> Tonge <hi>had no Intercourſe with him but what tended to give him that information the occurring exigences required (as his papers now before the Committee of Secrecy do ſufficiently prove,) and as for Mr.</hi> Kirby <hi>he never ſpoke to him at all but once, and that by the Kings Immediate command: moreover the Scriblers cunning by, confounding of the times when the Plot was diſcovered, and to whom, with the times of taking the Depoſitions, whereby he builds the Baſis of his diſcourſe) is eaſily diſco<g ref="char:EOLhyphen"/>vered.</hi>
+               </p>
+               <p>
+                  <hi>Firſt, It appears not poſſible that Sr.</hi> Edmundbury Godfrey <hi>ſhould know any thing of the matter until the Sixth of</hi> September, <hi>when he firſt took Dr.</hi> Oates <hi>his Depo<g ref="char:EOLhyphen"/>ſitions (and not much then the contents thereof not being made known to him) and Dr.</hi> Tongs <hi>Depoſition (being only that the matters therein were made known to the King) could not give him any certain knowledge of it.</hi>
+               </p>
+               <p>
+                  <hi>Secondly. He does acknowledge that His Majeſty told the Duke, he had been informed of the Plot before His Royal Highneſs received an account thereof from Sr.</hi> Edmundbury Godfrey, <hi>by Mr.</hi> Coleman, <hi>as this Scribler would ſuggeſt (but may well be ſuppoſed falſely) for it is not to be believed he ſhould the ſecond time have ſo willingly taken Dr.</hi> Oates <hi>his Depo<g ref="char:EOLhyphen"/>ſitions, if he had made the firſt known to</hi> Coleman, <hi>and had apprehended himſelf in danger for what he had before done, and had been reprehended for it.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, The Scribler, as Maliciouſly, as Ignorantly, aſſerts a Correſpondence betwixt the Earl and the Doctors by Mr.</hi> Kirkbys <hi>means, Antecedent to the Kings being acquain<g ref="char:EOLhyphen"/>ted with the Plot, which is the greateſt peice of impudence and untruth in the World, and could not proceed from any other than ſuch as endeavour to impoſe upon all the World, when alas they will find themſelves caught in their own ſnares. For I will not hope that <gap reason="illegible" resp="#UOM" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> any Proteſtant remaining ſo ſtupid as not to be able to look through their Cobweb-deceits, nothing can more fully diſplay to the World, their being in love with that Luſts though inſignificant Cover, to wickedneſs and deceipt, than this Scribler daring publickly to aſſert a lye, when it was in his power if he had bene willing to have been informed of the truth, by addreſſing himſelf to any of thoſe concerned in the Diſcovery: hence it appears with what it malitious deſignes thoſe are pregnant, who wilfully keep themſelves (at leaſt pretendedly) ignorant of the Truth, that they may take an occaſion to impoſe upon the weak and if poſſible make the ſtrong to fall.</hi>
+               </p>
+               <p>
+                  <hi>The Lord in mercy deliver His Majeſty His Kingdoms and Dominions, from Papists. Treachery and Deceits, and I doubt not then, but we ſhall remain in peace and qui<g ref="char:EOLhyphen"/>etneſs.</hi>
+               </p>
+               <closer>
+                  <signed>Which is the earneſt Prayer of Sir your Affectionate Friend and humble Servant, <hi>J. B.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
